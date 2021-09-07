@@ -1,0 +1,7 @@
+#Introduction 
+
+
+The Scientific Calculator project in C is a consoled based application Created using C programming language.
+This System is a Simple mini project and Compiled in VS Codes Both on Windows and Linux operating System using GCC compiler.
+A fully featured Scientific Calculator with proper operator precedence is implemented,
+including trigonometry functions and logarithms, Factorials, hex, octal, binary and bitwise logical operators.
