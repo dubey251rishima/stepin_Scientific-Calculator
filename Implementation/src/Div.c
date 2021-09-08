@@ -1,4 +1,6 @@
-
+#include<stdio.h>
+#include<stdlib.h>
+#include<math.h>
 error_t division(arthimetic_inputs *ai)
 {
     if(ai->input_2==0)
