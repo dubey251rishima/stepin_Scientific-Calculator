@@ -1,0 +1,4 @@
+error_t power(arthimetic_inputs *ai){
+    ai->output=pow((ai->input_1),(ai->input_2));
+    return SUCCESS;
+}
