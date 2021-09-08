@@ -7,4 +7,4 @@ BUILD_DIR = Build.exe
 # All source code files
 SRC =src/ADD.c\
 src/SUBB.c\
-src/multiply.c src/division.c src/factorial.c src/logarithm.c src/power.c src/squareroot.c\
+src/multiply.c src/division.c src/factorial.c src/ src/power.c src/squareroot.c\
