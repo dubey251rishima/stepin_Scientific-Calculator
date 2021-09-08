@@ -1,3 +1,7 @@
+
+#include<stdio.h>
+#include<stdlib.h>
+#include<math.h>
 error_t factorial(single_inputs *si){
     float number_1=si->input_3;
     
